@@ -22,7 +22,9 @@ By systematically building and refining these projects, this repository will ref
 
 | Project Name          | Description                                         | Live Demo |   |
 | --------------------- | --------------------------------------------------- | --------- | - |
-| **Responsive Navbar** | A mobile-first responsive navigation bar            | [View](#) |   |
+| **Simple layout 1**   | played position and layout                       | [View](#) |  |
+| **Simple Layout 2**   | played with images 
+
 
 *Note: The 'Live Demo' links will be updated as projects are completed and deployed.*
 
